@@ -1,16 +1,21 @@
-### Hi there 👋
+# Thomas Clark
 
-<!--
-**anirath/anirath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: # (Section 1: Details)
+## Details
+- Name: Thomas Clark
+- Handle: @anirath
+- Birthdate: May 1991 (29)
+- Location: Ketchikan, Alaska USA
 
-Here are some ideas to get you started:
+[//]: # (Section 2: Contact)
+## Contact
+- Personal Email: anirath@pm.me
+- Homepage: [anirath.github.io][home]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[//]: # (Section 3: About)
+## About
+Hello! As I'm sure you can tell from the details above, my name is Thomas Clark. I am a freelance contract Software Engineer, Web Developer, and IT Consultant living in the somewhat rural Southeast Alaskan town of Ketchikan. I have never been particularly fond of writing out these sort of "_short biography/about me_" type of sections, and tend to find myself at a loss for what to mention.
+
+[//]: # (References:)
+[home]: https://anirath.github.io/
+[ntwk]: https://anirath.github.io/maarekhet/
