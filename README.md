@@ -1,5 +1,3 @@
-# Thomas Clark
-
 [//]: # (Section 1: Details)
 ## Details
 - Name: Thomas Clark
